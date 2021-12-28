@@ -22,10 +22,6 @@
   src: url('https://cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebLight.eot?#iefix') format('embedded-opentype'), url('https://cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebLight.woff') format('woff'), url('https://cdn.jsdelivr.net/font-nanumlight/1.0/NanumBarunGothicWebLight.ttf') format('truetype');
  }
 
- @import url('https://fonts.googleapis.com/css2?family=Vidaloka&display=swap');
-
- @import url('https://fonts.googleapis.com/css2?family=Secular+One&family=Vidaloka&display=swap');
-
 
  *{margin: 0;padding: 0;}
 ul{list-style: none;}
